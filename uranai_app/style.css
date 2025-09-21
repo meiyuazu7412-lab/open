@@ -1,0 +1,26 @@
+body {
+  background-color: #fff8f0;
+  font-family: 'Yu Gothic', sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+
+h1 {
+  color: #ff69b4;
+  font-size: 2.5em;
+  margin-bottom: 30px;
+}
+
+.uranai-btn {
+  background-color: #ffd1dc;
+  border: none;
+  padding: 12px 24px;
+  font-size: 1.2em;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.uranai-btn:hover {
+  background-color: #ffb6c1;
+}
